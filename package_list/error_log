@@ -1,0 +1,2 @@
+[29-Jun-2022 12:07:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'enamdev'@'mars.simplecplogin.com' (using password: YES) in /home/enamdev/public_html/package_list/connection.php on line 2
+[29-Jun-2022 13:30:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'enamdev'@'mars.simplecplogin.com' (using password: YES) in /home/enamdev/public_html/package_list/connection.php on line 2
