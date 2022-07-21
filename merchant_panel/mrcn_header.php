@@ -65,20 +65,20 @@ require_once '../connection.php';
                 <nav id="sidebar" class="active">
                     <div class="sidebar-header">
                         <h3>FAST DELIVERY</h3>
-                        <strong><a href="https://enamdev.xyz/merchant_panel/dashboard.php"><img src="../admin/companyLogo/fastdeli.png?>" alt="" width="70"></a></strong>
+                        <strong><a href="dashboard.php"><img src="../admin/companyLogo/fastdeli.png?>" alt="" width="70"></a></strong>
                     </div>
                     <ul class="list-unstyled components">
                         <li class="active">
-                          <a href="https://enamdev.xyz/merchant_panel/dashboard.php"><i class="fa-solid fa-gauge-high"></i>DASHBOARD</a>
+                          <a href="dashboard.php"><i class="fa-solid fa-gauge-high"></i>DASHBOARD</a>
                         </li>
                         <li>
-                          <a href="https://enamdev.xyz/merchant_panel/merchant_info.php"><i class="fa-solid fa-users-viewfinder"></i>MERCHANT INFO</a>
+                          <a href="merchant_info.php"><i class="fa-solid fa-users-viewfinder"></i>MERCHANT INFO</a>
                         </li>
                         <li>
-                          <a href="https://enamdev.xyz/merchant_panel/mrcn_customer.php"><i class="fa-solid fa-people-roof"></i>CUSTOMARS</a>
+                          <a href="mrcn_customer.php"><i class="fa-solid fa-people-roof"></i>CUSTOMARS</a>
                         </li>
                         <li>
-                          <a href="https://enamdev.xyz/merchant_panel/customer_invoice.php"><i class="fa-solid fa-people-roof"></i>CREATE INVOICE</a>
+                          <a href="customer_invoice.php"><i class="fa-solid fa-people-roof"></i>CREATE INVOICE</a>
                         </li>
                         <li>
                           <a href="merchant_invoice.php"><i class="fa-solid fa-list-check"></i></i>MANAGE ORDERS</a>

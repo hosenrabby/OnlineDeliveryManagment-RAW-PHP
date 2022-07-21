@@ -1,5 +1,5 @@
 <?php
-	$link = new mysqli("enamdev.xyz","enamdev","ENam@@121231$$","enamdev_onlineDelivery");
+	$link = new mysqli("localhost","root","","onlineDelivery");
 
 	if ($link->connect_error) {
 		die("Database Connection Promlem ...");
