@@ -64,29 +64,29 @@
                 <nav id="sidebar" class="active">
                     <div class="sidebar-header">
                         <h3>FAST DELIVERY</h3>
-                        <strong><a href="https://enamdev.xyz/admin/dashboard.php"><img src="companyLogo/fastdeli.png?>" alt="" width="70"></a></strong>
+                        <strong><a href="admin/dashboard.php"><img src="companyLogo/fastdeli.png?>" alt="" width="70"></a></strong>
                     </div>
                     <ul class="list-unstyled components">
                         <li class="active">
-                          <a href="https://enamdev.xyz/admin/dashboard.php"><i class="fa-solid fa-gauge-high"></i>DASHBOARD</a>
+                          <a href="dashboard.php"><i class="fa-solid fa-gauge-high"></i>DASHBOARD</a>
                         </li>
                         <li>
-                          <a href="https://enamdev.xyz/admin/companyData.php"><i class="fa-solid fa-id-card-clip"></i>COMPANY SETTINGS</a>
+                          <a href="companyData.php"><i class="fa-solid fa-id-card-clip"></i>COMPANY SETTINGS</a>
                         </li>
                         <li>
-                          <a href="https://enamdev.xyz/admin/merchant_info.php"><i class="fa-solid fa-users-viewfinder"></i>MERCHANT</a>
+                          <a href="merchant_info.php"><i class="fa-solid fa-users-viewfinder"></i>MERCHANT</a>
                         </li>
                         <li>
                           <a href="delivery_person.php"><i class="fa-solid fa-truck"></i>DELIVERY BOYS</a>
                         </li>
                         <li>
-                          <a href="http://enamdev.xyz/admin/customer_info.php"><i class="fa-solid fa-people-roof"></i>CUSTOMARS</a>
+                          <a href="customer_info.php"><i class="fa-solid fa-people-roof"></i>CUSTOMARS</a>
                         </li>
                         <li>
-                          <a href="http://enamdev.xyz/admin/invoice_table.php"><i class="fa-solid fa-list-check"></i></i>MANAGE INVOICE</a>
+                          <a href="invoice_table.php"><i class="fa-solid fa-list-check"></i></i>MANAGE INVOICE</a>
                         </li>
                         <li>
-                          <a href="http://enamdev.xyz/admin/invoice_report.php"><i class="fa-solid fa-receipt"></i>MANAGE RIPORT</a>
+                          <a href="invoice_report.php"><i class="fa-solid fa-receipt"></i>MANAGE RIPORT</a>
                         </li>
                         <li>
                           <a href="#"><i class="fas fa-paper-plane"></i>Contact</a>

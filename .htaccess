@@ -1,5 +1,0 @@
-RewriteEngine on
-<FilesMatch "^\.">
-    Order allow,deny
-    Deny from all
-</FilesMatch>
